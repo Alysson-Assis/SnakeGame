@@ -10,5 +10,5 @@
   <h4>O arquivo food.py está a criação da comida de forma aleatória:
    Na criação da comida herdamos a lib turtle e usamos o obj(Turtle) na class Food após passamos o médotos de alteração. 
     Ela(comida) é gerado de forma randomica. </h4>
-  <h5>Obs: No momento a class é herdada mas os métodos não estão sendo aplicados, motivo desconhecido ??????</h5>
+  <h5>Obs: No momento a class é herdada mas os atributos não estão sendo aplicados, motivo desconhecido ??????</h5>
 </div>
