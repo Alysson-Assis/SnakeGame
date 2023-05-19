@@ -1,4 +1,4 @@
-# SnakeGame
+# SnakeGame 🐍
 <div>
   <h3>Snake</h3>
   <h4>O arquivo snake.py está a criação da cobra e os movimentos: 
