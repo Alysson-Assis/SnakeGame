@@ -1,8 +1,7 @@
-import turtle
-import random
 from turtle import Screen
-from snake import Snake
 from food import Food
+from snake import Snake
+
 import time
 
 screen = Screen()
@@ -13,6 +12,7 @@ screen.tracer(n=0)
 
 snake = Snake()
 food = Food()
+
 
 screen.listen()
 screen.onkey(snake.up, "Up")
