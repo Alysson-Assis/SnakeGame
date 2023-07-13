@@ -1,5 +1,13 @@
 # SnakeGame 🐍
 <div>
+  <h3>Main</h3>
+  <h4>Cria a tela usando a biblioteca turtle usando o método Screen</h4>
+  <h4>Estância os objetos Snake, Food, Scoreboard<h4>
+  <h4>Usa o método LISTEN e ONKEY para receber os comandos do teclado.</h4>
+  <h4>While loop para iniciar o jogo.</h4>
+  <h4>Comida, crescimento e pontuação.</h4>
+  <h4>Detectando colisão com parede, se ocorrer retorna Game Over(False)</h4>
+  <h4>Detectando colisão com corpo, se ocorrer retorna Game Over(False)</h4>
   <h3>Snake</h3>
   <h4>O arquivo snake.py está a criação da cobra e os movimentos: 
     Na criação da cobra usamos uma lista com as posições baseado em X/Y.<br>
